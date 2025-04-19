@@ -1,0 +1,31 @@
+id,nombre_cafe,origen,proceso,puntaje_sca
+1,La Perla Negra,Colombia,Lavado,87.5
+2,Blue Mountain,Jamaica,Lavado,90.2
+3,Sidamo Sunrise,Etiopía,Natural,88.7
+4,Volcán de Oro,Guatemala,Honey,86.9
+5,Kona Bliss,Hawái,Lavado,89.1
+6,Yirgacheffe Dream,Etiopía,Lavado,91.0
+7,Pacamara Power,El Salvador,Natural,87.2
+8,Geisha Legend,Panamá,Lavado,94.5
+9,Sumatra Mandheling,Indonesia,Honey,85.8
+10,Tarrazú Clásico,Costa Rica,Lavado,88.0
+11,Huehuetenango,Guatemala,Natural,86.5
+12,Cerrado Dulce,Brasil,Natural,84.7
+13,Kenya AA,Kenia,Lavado,89.8
+14,Java Paradise,Indonesia,Honey,85.2
+15,San Ignacio,Perú,Lavado,87.0
+16,Santa Bárbara,Honduras,Natural,86.3
+17,Rwanda Bourbon,Ruanda,Lavado,88.9
+18,Sulawesi Toraja,Indonesia,Honey,86.1
+19,Antigua Bella,Guatemala,Lavado,87.8
+20,Sidra Supreme,Ecuador,Natural,90.0
+21,Maragogipe,México,Lavado,85.5
+22,Catuai Rojo,Brasil,Honey,84.9
+23,SL28 Magic,Kenia,Natural,90.5
+24,Pacas Selecto,El Salvador,Lavado,86.7
+25,Typica Antigua,Bolivia,Lavado,87.3
+26,Bourbon Rosado,Colombia,Natural,89.2
+27,Gesha Spirit,Panamá,Honey,93.1
+28,Obata Oro,Brasil,Lavado,85.0
+29,Caturra Dulce,Colombia,Honey,86.8
+30,Ethiopia Queen,Etiopía,Natural,92.3
